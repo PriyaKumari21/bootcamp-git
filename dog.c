@@ -1,5 +1,1 @@
-puppy
-canine
-wolf
-bark
-bow wow
+puppy canine wolf bark bow bow
